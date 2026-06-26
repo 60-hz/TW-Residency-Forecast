@@ -1,0 +1,65 @@
+## Patch Variables:
+
+* __AlphaTexture__ ```Texture```
+* __AlphaTextureMode__ ```Number```
+* __Amplitude1__ ```Number```
+* __Amplitude2__ ```Number```
+* __Amplitude3__ ```Number```
+* __AreaPosX1__ ```Number``` (default Value: `0`)
+* __AreaPosX2__ ```Number```
+* __AreaPosX3__ ```Number```
+* __AreaSize1__ ```Number```
+* __AreaSize2__ ```Number```
+* __AreaSize3__ ```Number```
+* __AreaStrength1__ ```Number```
+* __AreaStrength2__ ```Number```
+* __AreaStrength3__ ```Number```
+* __ColorBase1__ ```Array```
+* __ColorBase2__ ```Array```
+* __ColorBase3__ ```Array```
+* __ColorTop1__ ```Array```
+* __ColorTop2__ ```Array```
+* __ColorTop3__ ```Array```
+* __dataset__ ```Object```
+* __geoLat__ ```Number``` (default Value: `22.478902`)
+* __geoLon__ ```Number``` (default Value: `120.206038`)
+* __Height1__ ```Number```
+* __Height2__ ```Number```
+* __Height3__ ```Number```
+* __hour-index__ ```Number```
+* __ocean-direction__ ```Array```
+* __ocean-direction-h__ ```Number```
+* __ocean-velocity__ ```Array```
+* __ocean-velocity-h__ ```Number```
+* __Preset__ ```Number```
+* __sea-level__ ```Array```
+* __sea-level-h__ ```Number```
+* __Smooth__ ```Number```
+* __Speed1__ ```Number```
+* __Speed2__ ```Number```
+* __Speed3__ ```Number```
+* __swellwave-direction__ ```Array```
+* __swellwave-direction-h__ ```Number```
+* __swellwave-height__ ```Array```
+* __swellwave-height-h__ ```Number```
+* __swellwave-period__ ```Array```
+* __swellwave-period-h__ ```Number```
+* __temperature__ ```Array```
+* __temperature-h__ ```Number```
+* __Texture1__ ```Texture```
+* __Texture2__ ```Texture```
+* __Texture3__ ```Texture```
+* __time-range-index__ ```Number```
+* __wave-direction__ ```Array```
+* __wave-direction-h__ ```Number```
+* __wave-height__ ```Array```
+* __wave-height-h__ ```Number```
+* __wave-period__ ```Array```
+* __wave-period-h__ ```Number```
+* __windwave-direction__ ```Number```
+* __windwave-direction__ ```Array```
+* __windwave-height__ ```Array```
+* __windwave-height-h__ ```Number```
+* __windwave-period__ ```Array```
+* __windwave-period-h__ ```Number```
+

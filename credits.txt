@@ -1,0 +1,14 @@
+OP AUTHORS:
+
+- ops by cables user pandur (https://cables.gl/user/pandur)
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+- GPU-Noise-Lib by Brian Sharpe (https://github.com/BrianSharpe/GPU-Noise-Lib)
+- ops by cables user tim (https://cables.gl/user/tim)
+- ops by cables user andro (https://cables.gl/user/andro)
+- ops by cables user stephan (https://cables.gl/user/stephan)
+- ops by cables user GeertVanDamme (https://cables.gl/user/GeertVanDamme)
+- ops by cables user 60hz (https://cables.gl/user/60hz)
+- ops by cables user simod (https://cables.gl/user/simod)
+- Domain Warping Shader by inigo quilez (http://iquilezles.org/www/articles/warp/warp.htm)
+
+cables is built on open source software and community contributions, check https://cables.gl/support
